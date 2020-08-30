@@ -1,0 +1,124 @@
+"","unweighted","equal","squared","H1","H2","H3","TESTIMONY1r1","TESTIMONY1r2","TESTIMONY2r1","TESTIMONY2r2","TESTIMONY3r1","TESTIMONY3r2","TESTIMONY4r1","TESTIMONY4r2","TASK1r1","TASK1r2","TASK2r1","TASK2r2","TASK3r1","TASK3r2","TASK4r1","TASK4r2","TASK5r1","TASK5r2","TASK6r1","TASK6r2","TASK7r1","TASK7r2","OVERVIEW1r1","OVERVIEW1r2","OVERVIEW2r1","OVERVIEW2r2"
+"1",-0.114285714285714,-0.114285714285714,-0.114285714285714," Training Materials","Workflow","overview of contribution workflow",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+"2",-0.444444444444445,-0.444444444444445,-0.444444444444445," Training Materials","Workflow","Rely on documentation",0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0
+"3",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Workflow","make first contribution",0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"4",0.297297297297297,0.297297297297297,0.297297297297297," Training Materials","Workflow","Executing test cases",0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1
+"5",-0.181818181818182,-0.181818181818182,-0.181818181818182," Training Materials","Workflow","issues tracker/ bug fix workflow",0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"6",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Workflow","Code quality activities",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+"7",-0.130434782608695,-0.130434782608695,-0.130434782608695," Training Materials","Workflow","Efforts required to make a contribution",0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"8",-0.0612244897959184,-0.0612244897959184,-0.0612244897959184," Training Materials","Workflow","Code review workflow (process/tool)",0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,1,0,1,0,1,0,1,0,1,0
+"9",-0.130434782608695,-0.130434782608695,-0.130434782608695," Training Materials","Workflow","Communication channel",0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"10",-0.226415094339623,-0.226415094339623,-0.226415094339623," Training Materials","Workflow","New contributors building persona",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+"11",0.805970149253731,0.805970149253731,0.805970149253731," Training Materials","Workflow","CI/CD workflow",0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+"12",-0.226415094339623,-0.226415094339623,-0.226415094339623," Training Materials","Workflow","make first accepted contribution in ecosystem release",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0
+"13",0.580645161290323,0.580645161290323,0.580645161290323," Training Materials","Workflow","version control (git) activities",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+"14",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Workflow","Importance of splitting commits.",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+"15",-0.140350877192983,-0.140350877192983,-0.140350877192983," Training Materials","Workflow","Mentors assigned activities",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+"16",1,1,1," Training Materials","Workflow","feature design workflow",0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"17",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Workflow","new contributors building persona",0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"18",0.161290322580645,0.161290322580645,0.161290322580645," Training Materials","Workflow","Overview of contribution process",0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+"19",0.754716981132076,0.754716981132076,0.754716981132076," Training Materials","Workflow","Work culture and personal preference",0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+"20",1,1,1," Training Materials","Workflow","Demonstration by examples",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"21",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Best practices","attend regular meetings",0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"22",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Best practices","select project based on strengths and weaknesses",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"23",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Best practices","feature design best practices",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"24",0.831168831168831,0.831168831168831,0.831168831168831," Training Materials","Best practices","Demonstration best practices",0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0
+"25",1,1,1," Training Materials","Best practices","Rely on documentation",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"26",0.264150943396226,0.264150943396226,0.264150943396226," Training Materials","Best practices","Quality assurance best practices",0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1
+"27",1,1,1," Training Materials","Best practices","commit message best practices",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"28",0.417910447761194,0.417910447761194,0.417910447761194," Training Materials","Best practices","version control (git) activities",0,1,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+"29",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Best practices","Code review best practices",0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"30",0.277777777777778,0.277777777777778,0.277777777777778," Training Materials","Best practices","Align to the community modus operandi",0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1
+"31",1,1,1," Training Materials","Best practices","Vision/objectives",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"32",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Best practices","OUI purpose",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"33",0.831168831168831,0.831168831168831,0.831168831168831," Training Materials","Vision/objectives","Diversify and inclusive community",0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0
+"34",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Vision/objectives","Gender diversity",1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"35",-0.314606741573034,-0.314606741573034,-0.314606741573034," Training Materials","Vision/objectives","Technical diversity",1,0,1,1,0,1,0,0,1,0,1,1,0,1,1,0,0,1,0,1,0,1,0,1,0,0
+"36",0.805970149253731,0.805970149253731,0.805970149253731," Training Materials","Vision/objectives","Corporate diversity",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,1
+"37",0.628571428571429,0.628571428571429,0.628571428571429," Training Materials","Best practices","grow expertise within community",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+"38",0.675,0.675,0.675," Training Materials","Best practices","self motivation overcomes barriers/frustrations",1,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,0,0,0,1,1
+"39",0.754716981132076,0.754716981132076,0.754716981132076," Training Materials","Best practices","Project vs ecosystem",0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+"40",0.566666666666667,0.566666666666667,0.566666666666667," Training Materials","Best practices","Vast expertise needed for OpenStack projects",1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+"41",1,1,1," Training Materials","Vision/objectives","OUI purpose",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+"42",0.805970149253731,0.805970149253731,0.805970149253731," Training Materials","Vision/objectives","grow expertise within community",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0
+"43",1,1,1," Training Materials","Vision/objectives","self motivation overcomes barriers/frustrations",0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,1,1
+"44",0.365853658536585,0.365853658536585,0.365853658536585," Training Materials","Vision/objectives","Project vs ecosystem",1,0,0,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,0,0,1,1,0,0,1,1
+"45",0.409090909090909,0.409090909090909,0.409090909090909," Training Materials","Vision/objectives","Vast expertise needed for OpenStack projects",0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"46",0.648648648648649,0.648648648648649,0.648648648648649,"Organization of Training even","Agenda","activities that groom new contributors to be productive",0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0
+"47",1,1,1,"Organization of Training even","Agenda","Q/A session",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"48",0.434782608695652,0.434782608695652,0.434782608695652,"Organization of Training even","Agenda","Mentors introduction",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"49",0.409090909090909,0.409090909090909,0.409090909090909,"Organization of Training even","Agenda","Experts opinion on community norms",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"50",0.417910447761194,0.417910447761194,0.417910447761194,"Organization of Training even","Agenda","overview of contribution workflow",0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,1,1,0,0,0,0
+"51",0.628571428571429,0.628571428571429,0.628571428571429,"Organization of Training even","Agenda","mentor-assigned activities",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"52",0.133333333333333,0.133333333333333,0.133333333333333,"Organization of Training even","Agenda","Working Environment and configuration to facilitate contributions",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,1
+"53",-0.0833333333333329,-0.0833333333333329,-0.0833333333333329,"Organization of Training even","Format","Communication channel",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"54",0.133333333333333,0.133333333333333,0.133333333333333,"Organization of Training even","Format","competing for reward",0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0
+"55",-0.130434782608695,-0.130434782608695,-0.130434782608695,"Organization of Training even","Format","Challenging activities",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0
+"56",1,1,1,"Organization of Training even","Format","participants working independently",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+"57",0.754716981132076,0.754716981132076,0.754716981132076,"Organization of Training even","Format","participants share experience from exercises",0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"58",0.805970149253731,0.805970149253731,0.805970149253731,"Organization of Training even","Format","Onboarding adapts to diverse learning methods",0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0
+"59",-0.130434782608695,-0.130434782608695,-0.130434782608695,"Organization of Training even","Format","participant and mentor seating (configuration)",1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"60",0.409090909090909,0.409090909090909,0.409090909090909,"Organization of Training even","Format","Timed activity",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"61",0.628571428571429,0.628571428571429,0.628571428571429,"Organization of Training even","Format","Mentors/Mentee feedback",1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"62",0.675,0.675,0.675,"Organization of Training even","Format","active participation",1,0,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,1,1
+"63",0.628571428571429,0.628571428571429,0.628571428571429,"Advantages of Onboarding","To Ecosystem/Project","diverse contributions",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"64",0.264150943396226,0.264150943396226,0.264150943396226,"Advantages of Onboarding","To Ecosystem/Project","grow expertise within community",1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"65",0.754716981132076,0.754716981132076,0.754716981132076,"Advantages of Onboarding","To Ecosystem/Project","mentoring helps achieve long and short term goals",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,1,1
+"66",0.493506493506494,0.493506493506494,0.493506493506494,"Advantages of Onboarding","To Ecosystem/Project","attract contributors",1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1
+"67",1,1,1,"Advantages of Onboarding","To Ecosystem/Project","Ecosystem vs. projects-team specifics",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+"68",0.264150943396226,0.264150943396226,0.264150943396226,"Advantages of Onboarding","To Ecosystem/Project","experts diverse knowledge build an inclusive ecosystem",1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"69",0.628571428571429,0.628571428571429,0.628571428571429,"Advantages of Onboarding","To Ecosystem/Project","onboarding adapts to diverse learning methods",0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"70",0.754716981132076,0.754716981132076,0.754716981132076,"Advantages of Onboarding","To Ecosystem/Project","Self motivation and commitment overcomes barriers/frustrations",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1
+"71",0.628571428571429,0.628571428571429,0.628571428571429,"Advantages of Onboarding","To Ecosystem/Project","onboarding nuturing new contributors to grow in the ecosystem with confident",1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"72",0.628571428571429,0.628571428571429,0.628571428571429,"Advantages of Onboarding","To Ecosystem/Project","communication faciltate collaboration and productivity",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"73",0.831168831168831,0.831168831168831,0.831168831168831,"Advantages of Onboarding","To Ecosystem/Project","Mentors/Mentee feedback",1,1,1,1,1,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"74",1,1,1,"Advantages of Onboarding","To Ecosystem/Project","knowledge sharing (mentor-mentee)",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"75",0.133333333333333,0.133333333333333,0.133333333333333,"Advantages of Onboarding","To Ecosystem/Project","onboarding organization community vs Company?",1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"76",0.35,0.35,0.35,"Advantages of Onboarding","To Ecosystem/Project","grow expertise within community",1,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0
+"77",1,1,1,"Advantages of Onboarding","To Ecosystem/Project","promotes networking within ecosystem",0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"78",1,1,1,"Advantages of Onboarding","To Ecosystem/Project","Mentee-mentee collaboration towards productivity",0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"79",0.434782608695652,0.434782608695652,0.434782608695652,"Advantages of Onboarding","To Ecosystem/Project","mentoring helps achieve long and short term goals",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"80",0.580645161290323,0.580645161290323,0.580645161290323,"Advantages of Onboarding","To Ecosystem/Project","socio-technical interactions",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1
+"81",0.580645161290323,0.580645161290323,0.580645161290323,"Advantages of Onboarding","To Ecosystem/Project","activities that groom new contributors to be productive",0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"82",0.434782608695652,0.434782608695652,0.434782608695652,"Advantages of Onboarding","To Individual","align project selection with personal interests",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"83",1,1,1,"Advantages of Onboarding","To Individual","communication faciltate collaboration and productivity",0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"84",0.264150943396226,0.264150943396226,0.264150943396226,"Advantages of Onboarding","To Individual","growth of contributor techncial skills",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+"85",0.628571428571429,0.628571428571429,0.628571428571429,"Advantages of Onboarding","To Individual","Self motivation and commitment overcomes barriers/frustrations",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"86",0.264150943396226,0.264150943396226,0.264150943396226,"Advantages of Onboarding","To Individual","low entry barrier",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1
+"87",0.628571428571429,0.628571428571429,0.628571428571429,"Advantages of Onboarding","To Individual","mentor past onboarding experience",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"88",0.648648648648649,0.648648648648649,0.648648648648649,"Advantages of Onboarding","To Individual","Mentors/Mentee feedback",1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"89",0.628571428571429,0.628571428571429,0.628571428571429,"Advantages of Onboarding","To Individual","mentors-mentees collaborating towards productivity",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"90",1,1,1,"Advantages of Onboarding","To Individual","mentees-mentees collaborating towards productivity",0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"91",0.805970149253731,0.805970149253731,0.805970149253731,"Advantages of Onboarding","To Individual","onboarding nuturing new contributors to grow in the ecosystem with confident",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1
+"92",0.805970149253731,0.805970149253731,0.805970149253731,"Advantages of Onboarding","To Individual","Impostor Syndrome effects",1,1,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"93",0.580645161290323,0.580645161290323,0.580645161290323,"Advantages of Onboarding","To Individual","make first accepted contribution in ecosystem release.",0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"94",0.754716981132076,0.754716981132076,0.754716981132076,"Advantages of Onboarding","To Individual","mentoring helps achieve long and short term goals",0,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"95",0.754716981132076,0.754716981132076,0.754716981132076,"Advantages of Onboarding","To Individual","important to feel included and comfortable in project",0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"96",0.805970149253731,0.805970149253731,0.805970149253731,"Advantages of Onboarding","To Individual","mentors assist participants",0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1
+"97",0.409090909090909,0.409090909090909,0.409090909090909,"Advantages of Onboarding","To Individual","Transfer Skill sets",0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"98",0.409090909090909,0.409090909090909,0.409090909090909,"Advantages of Onboarding","To Individual","mentees-mentees collaborating towards productivity",0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"99",0.409090909090909,0.409090909090909,0.409090909090909,"Advantages of Onboarding","To Individual","grow expertise within community",0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"100",0.409090909090909,0.409090909090909,0.409090909090909,"Advantages of Onboarding","To Individual","Build a network within your project team",0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"101",0.297297297297297,0.297297297297297,0.297297297297297,"Advantages of Onboarding","To Individual","Q/A session",0,0,1,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+"102",0.277777777777778,0.277777777777778,0.277777777777778,"Advantages of Onboarding","To Individual","promotes networking within ecosystem",1,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0
+"103",0.161290322580645,0.161290322580645,0.161290322580645,"Advantages of Onboarding","To Company","Mentoring brings value to stakeholders and ROI",0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+"104",0.264150943396226,0.264150943396226,0.264150943396226,"Advantages of Onboarding","To Company","mentor past onboarding experience",0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"105",0.315789473684211,0.315789473684211,0.315789473684211,"Advantages of Onboarding","To Company","mentee-mentee collaborating towards productivity",0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"106",0.566666666666667,0.566666666666667,0.566666666666667,"Advantages of Onboarding","To Company","mentoring helps achieve long and short term goals",1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"107",0.264150943396226,0.264150943396226,0.264150943396226,"Challenges of Onboarding","To Ecosystem/project","Different participants background",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1
+"108",0.409090909090909,0.409090909090909,0.409090909090909,"Challenges of Onboarding","To Ecosystem/project","Self motivation and commitment overcomes barriers/frustrations",0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"109",0.417910447761194,0.417910447761194,0.417910447761194,"Challenges of Onboarding","To Ecosystem/project","Impostor Syndrome effects",0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+"110",0.409090909090909,0.409090909090909,0.409090909090909,"Challenges of Onboarding","To Ecosystem/project","investment of time",0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"111",0.409090909090909,0.409090909090909,0.409090909090909,"Challenges of Onboarding","To Ecosystem/project","Key to a successful mentoring program",0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"112",0.0298507462686566,0.0298507462686566,0.0298507462686566,"Challenges of Onboarding","To Ecosystem/project","successful mentoring requires commitment",0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0
+"113",0.754716981132076,0.754716981132076,0.754716981132076,"Challenges of Onboarding","To Individuals","Self motivation and commitment overcomes barriers/frustrations",1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"114",0.628571428571429,0.628571428571429,0.628571428571429,"Challenges of Onboarding","To Individuals","possibility of insufficient mentors",0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"115",0.409090909090909,0.409090909090909,0.409090909090909,"Challenges of Onboarding","To Individuals","difficulty aligning project with personal interests",0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"116",0.409090909090909,0.409090909090909,0.409090909090909,"Challenges of Onboarding","To Individuals","new contributors learning style influences mentoring outcome",0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"117",0.566666666666667,0.566666666666667,0.566666666666667,"Challenges of Onboarding","To Individuals","Investment of time",1,1,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"118",0.315789473684211,0.315789473684211,0.315789473684211,"Challenges of Onboarding","To Individuals","language barriers",1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"119",0.434782608695652,0.434782608695652,0.434782608695652,"Challenges of Onboarding","To Individuals","onboarding adapts to diverse learning methods",1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"120",0.450704225352113,0.450704225352113,0.450704225352113,"Challenges of Onboarding","To Individuals","successful mentoring requires commitment",0,0,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+"121",1,1,1,"Challenges of Onboarding","To Company","investment of time",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"122",0.628571428571429,0.628571428571429,0.628571428571429,"Challenges of Onboarding","To Company","Working Environment and configuration to facilitate contributions",0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"123",0.434782608695652,0.434782608695652,0.434782608695652,"Challenges of Onboarding","To Company","Onboarding organization community vs Company?",0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
