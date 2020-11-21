@@ -39,7 +39,8 @@
 │   ├── 18.getting_the_bugInducingCommits.py
 │   └── irr.R
 ├── README.md
-└── Replication_Package.zip
+├── Replication_Package.zip
+└── Table1_Metrics.pdf
 ```
 ## Qualitative Study
 ### STEP 1.
