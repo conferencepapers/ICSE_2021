@@ -1,12 +1,53 @@
 # Structure of our replication package ICSE_2021
 
+```
+.
+├── 1.codebook
+│   ├── 0.Codebook_with_Examples.pdf
+│   ├── 1.day1-2_observation.pdf
+│   ├── 2.technical_activities_onboarding.pdf
+│   └── 3.onboarding_emerging_codes_irr.pdf
+├── 2.irr-iterations
+│   ├── 1.qualitative-codes-08-May-initial-classified-codes.csv
+│   ├── 2.irr_onboarding.csv
+│   ├── 3.irr_first-iteration_with_kappa_51_pct.csv
+│   ├── 4.irr_second-iteration_with_kappa_55_pct.csv
+│   ├── 5.irr_third-iteration_with_kappa_62.6_pct.csv
+│   └── 6.irr_fourth-iteration_with_kappa_100_pct.csv
+├── 3.affinity_digrams_iterations
+│   ├── 1.affinity_first_iteration.pdf
+│   ├── 2.affinity_2nd_and_3rd_iteration.pdf
+│   └── 3.affinity_final_iteration.pdf
+├── 4.dataset
+│   ├── 1.Affiliation12.csv
+│   ├── 10.top10_analysis.csv
+│   ├── 2.commit_proportion12.csv
+│   ├── 3.commit_proportion23.csv
+│   ├── 4.company_commits.csv
+│   ├── 6.Effort12.csv
+│   ├── 7.Efforts.csv
+│   ├── 8.SZZ.csv
+│   └── 9.Technical_diversity.csv
+├── 5.scripts
+│   ├── 11.onboarding.html
+│   ├── 12.Statistical_testing.html
+│   ├── 13.survival_analysis.R
+│   ├── 14.survival_longivity.R
+│   ├── 15.bug_inducing_commits.py
+│   ├── 16.generate_openstack_gitmodules.py
+│   ├── 17.get_openstack_projects.py
+│   ├── 18.getting_the_bugInducingCommits.py
+│   └── irr.R
+├── README.md
+└── Replication_Package.zip
+```
 ## Qualitative Study
 ### STEP 1.
-  The '1.codebook': Contains the transcribed texts (1.), technical detail
-  activities(2.), and the codebook (3.) for both day-1/2 of the observational study at Berlin.
-The codebook (3.) is the final result of a series of negotiated
+  The '1.codebook': folder contains the codebook (0.), the transcribed texts (1.), the technical detail
+  activities(2.), and the codes that emerges as both raters did the qualitative coding (3.) for both day-1/2 of the observational study at Berlin.
+The codebook (0.) is the final result of a series of negotiated
   agreement with all the coders in this research. The commonly agreed
-  themes appears as subheadings.
+  themes appears as subheadings. However, we will upload the final version soon.
   
   
 ### STEP 2.
