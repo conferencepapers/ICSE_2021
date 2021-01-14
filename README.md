@@ -7,6 +7,8 @@
 │   ├── 1.day1-2_observation.pdf
 │   ├── 2.technical_activities_onboarding.pdf
 │   └── 3.onboarding_emerging_codes_irr.pdf
+|   └── 4.think_aloud_notes.pdf
+|   
 ├── 2.irr-iterations
 │   ├── 1.qualitative-codes-08-May-initial-classified-codes.csv
 │   ├── 2.irr_onboarding.csv
