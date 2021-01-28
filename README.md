@@ -135,6 +135,7 @@ We use double blind on the datasets to represent each contributor with their gen
 - Similarly, we use different metrics in other datasets to answer our research questions. However, in all cases, our scripts uses these datasets on different categories of contributors. 
 
 #### ___Scripts___
+Make sure all the relative path to the dataset in all the scripts are correctly place on your system, where the user can access them with full permission.
 
 ##### Python Files
 
@@ -148,7 +149,10 @@ Similarly to the other python files.
 ##### R Files
 __*Users*__  can use any R IDE such as [RStudio](https://rstudio.com/) to compile and run the R codes found in __*13.survival_analysis.R*__, ___14.survival_longivity.R___, and ___19.iir.R___
 
-
+Users can use the command line to run the R scripts, for example,
+```
+Rscript  13.survival_analysis.R 
+```
 
 ## [OpenStack resources](#openstack-resources)
 
