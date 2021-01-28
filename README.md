@@ -108,13 +108,15 @@ Our quantitative study has three different categories spanning two different tim
 ### STEP 5. 
 We run our scripts on the datasets to analyze the activities of interests. We have two Jupyter python notebooks that we converted to HTML files (11.onboarding.html -- measured activities  and 12.Statistical_testing.html -- the statistical tests) for simplicity.
 
-- both the survival analysis curves were done in R ("13.survival_analysis.R" and "14.survival_longivity.R")
+- both the survival analysis curves were done in ***R*** ("*13.survival_analysis.R*" and "*14.survival_longivity.R*")
 
 
 # [INSTALL](#install)
 To use our replication package, we recommend users to install python 3.8.5 or higher version and R 4.3.3+
 Once installed, users can install the python dependencies using:
-```pip install REQUIREMENTS.txt
+```
+pip install REQUIREMENTS.txt
+
 ```
 For the R package the survival analysis file (_*13.survival_analysis.R*_) automatically installs all R dependencies that we used.
 
