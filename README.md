@@ -1,4 +1,4 @@
-# Structure of our replication package ICSE_2021
+# [Structure of our replication package ICSE_2021](#structure-of-our-replication-package-icse_2021)
 
 ```
 .
@@ -114,10 +114,10 @@ We run our scripts on the datasets to analyze the activities on interests. We ha
 
 ## [OpenStack resources](#openstack-resources)
 
-- [Stackalytics] (https://wiki.openstack.org/wiki/Stackalytics)
-- [OpenStack Foundation] (https://www.openstack.org) 
-- [How to contribute to OpenStack, new contributors] (https://wiki.openstack.org/wiki/How_To_Contribute#Contributors_License_Agreement)
-- [OpenStack governance and Contributors' policies] (https://wiki.openstack.org/wiki/GovernmentCLA)
+####[Stackalytics] (https://wiki.openstack.org/wiki/Stackalytics)
+####[OpenStack Foundation] (https://www.openstack.org) 
+####[How to contribute to OpenStack, new contributors] (https://wiki.openstack.org/wiki/How_To_Contribute#Contributors_License_Agreement)
+- #[OpenStack governance and Contributors' policies] (https://wiki.openstack.org/wiki/GovernmentCLA)
 - [Documentation on project teams] (https://docs.openstack.org/project-team-guide/introduction.html)
 - [The OpenStack onboarding Institute] (https://wiki.openstack.org/wiki/OpenStack_Upstream_Institute_Occasions)
 - [Onboarding training materials] (https://etherpad.openstack.org/p/upstream-training-exercises)
