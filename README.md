@@ -120,6 +120,10 @@ pip install REQUIREMENTS.txt
 ```
 For the R package the survival analysis file (_*13.survival_analysis.R*_) automatically installs all R dependencies that we used.
 
+# [Usage](#usage)
+
+<img width="1212" alt="affiliation" src="https://user-images.githubusercontent.com/66274242/106171370-7523cd00-615f-11eb-9be9-faf097e75678.png">
+
 
 ## [OpenStack resources](#openstack-resources)
 
