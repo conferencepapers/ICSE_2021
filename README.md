@@ -50,6 +50,14 @@
 
 ```
 
+# [Files Description](#file-description)
+In the Quantitative study (we used the ___Table1_Metrics.pdf___ table to answer our ***RQ1*** (Diversity: we define diversity in broader sense of gender, technical amd coorporate diversity. ***RQ2*** (Productivity: we measure Density, Time ti first commit, retention, and patch acceptance rate). Finally in ***RQ3***, we measure Quality: Effort and SZZ), we use the radar chart below to compare these metrics in RQ1,2 and 3 between Cat-2 vs. Cat-3.
+
+[radar.pdf](https://github.com/conferencepapers/ICSE_2021/files/5890651/radar.pdf)
+
+
+___CD_commits.pdf___ 
+
 # [Data Collection And Analysis](#data-collection-and-analysis)
 
 __Our study uses mixed-method research to analyze the onboarding in a complex software ecosystem__ therefore, we first use a qualitative method; observational study of **72** new contributors to _OpenStack_. In this study, we recorded the entire two-days event and transcribed the data.  Researchers can reference the seating arrangement, how mentors and new contributors (mentees) were configured. Moreover, we used a think-aloud protocol to collect a rich set of qualitative data from participants.
@@ -115,7 +123,7 @@ We run our scripts on the datasets to analyze the activities of interests. We ha
 To use our replication package, we recommend users to install python 3.8.5 or higher version and R 4.3.3+
 Once installed, users can install the python dependencies using:
 ```
-pip install REQUIREMENTS.txt
+pip install -r REQUIREMENTS.txt
 
 ```
 For the R package the survival analysis file (_*13.survival_analysis.R*_) automatically installs all R dependencies that we used.
@@ -151,7 +159,7 @@ __*Users*__  can use any R IDE such as [RStudio](https://rstudio.com/) to compil
 
 Users can use the command line to run the R scripts, for example,
 ```
-Rscript  13.survival_analysis.R 
+$ Rscript  13.survival_analysis.R 
 ```
 
 ## [OpenStack resources](#openstack-resources)
