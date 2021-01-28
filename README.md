@@ -50,7 +50,7 @@
 
 ```
 
-## [Data Collection](#data-collection)
+# [Data Collection And Analysis](#data-collection-and-analysis)
 
 __Our study uses mixed-method research to analyze the onboarding in a complex software ecosystem__ therefore, we first use a qualitative method; observational study of **72** new contributors to _OpenStack_. In this study, we recorded the entire two-days event and transcribed the data.  Researchers can reference the seating arrangement, how mentors and new contributors (mentees) were configured. Moreover, we used a think-aloud protocol to collect a rich set of qualitative data from participants.
 ![Seating Arrangement](https://user-images.githubusercontent.com/66274242/106158339-9ed5f780-6151-11eb-95bf-5327acd3a160.png)
@@ -106,10 +106,17 @@ Our quantitative study has three different categories spanning two different tim
 -0 In each file, we compute different metric and compare the different studied categories (Cat-1, Cat-2, and Cat-3). The event column is the particular release cycle that we are looking at.
 
 ### STEP 5. 
-We run our scripts on the datasets to analyze the activities on interests. We have two Jupyter python notebooks that we downloaded as HTML files (11.onboarding.html -- measured activities  and 12.Statistical_testing.html -- the statistical tests) for simplicity.
+We run our scripts on the datasets to analyze the activities of interests. We have two Jupyter python notebooks that we converted to HTML files (11.onboarding.html -- measured activities  and 12.Statistical_testing.html -- the statistical tests) for simplicity.
 
 - both the survival analysis curves were done in R ("13.survival_analysis.R" and "14.survival_longivity.R")
 
+
+# [INSTALL](#install)
+To use our replication package, we recommend users to install python 3.8.5 or higher version and R 4.3.3+
+Once installed, users can install the python dependencies using:
+```pip install REQUIREMENTS.txt
+```
+For the R package the survival analysis file (_*13.survival_analysis.R*_) automatically installs all R dependencies that we used.
 
 
 ## [OpenStack resources](#openstack-resources)
@@ -117,7 +124,7 @@ We run our scripts on the datasets to analyze the activities on interests. We ha
 - [Stackalytics](https://wiki.openstack.org/wiki/Stackalytics)
 - [OpenStack Foundation](https://www.openstack.org) 
 - [How to contribute to OpenStack, new contributors](https://wiki.openstack.org/wiki/How_To_Contribute#Contributors_License_Agreement)
-- #[OpenStack governance and Contributors' policies](https://wiki.openstack.org/wiki/GovernmentCLA)
+- [OpenStack governance and Contributors' policies](https://wiki.openstack.org/wiki/GovernmentCLA)
 - [Documentation on project teams](https://docs.openstack.org/project-team-guide/introduction.html)
 - [The OpenStack onboarding Institute](https://wiki.openstack.org/wiki/OpenStack_Upstream_Institute_Occasions)
 - [Onboarding training materials](https://etherpad.openstack.org/p/upstream-training-exercises)
