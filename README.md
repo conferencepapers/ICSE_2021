@@ -124,10 +124,10 @@ For the R package the survival analysis file (_*13.survival_analysis.R*_) automa
 
 ## [Dataset](#dataset)
 All our datasets in the quantitative study has ***427*** entry per category (Cat-1, Cat-2, and Cat-3) making a total of 1281 new contributors.
-For each metric in [./Table1_Metrics.pdf] we measure a particular phenonmena such as Affiliation of contributors in each category that were hired by OpenStack sponsoring companies. For example, in the case of company affiliation, we use the __*Affiliation.csv*__ dataset, which has the following columns and selected rows:
+For each metric in [Table1_Metrics.pdf] we measure a particular phenonmena such as Affiliation of contributors in each category that were hired by OpenStack sponsoring companies. For example, in the case of company affiliation, we use the __*Affiliation.csv*__ dataset, which has the following columns and selected rows:
 
 <img width="1212" alt="affiliation" src="https://user-images.githubusercontent.com/66274242/106171370-7523cd00-615f-11eb-9be9-faf097e75678.png">
-We use double blind to represent each contributor with their gender and activities such as their ***Category*** (Cat-1), ***Event*** (release cycle that we capture the activity) ***Gender***: Male, Female, non-binary (neutral), ***Commit*** that each contributors made, the ***Effort*** that contributors make to get their patchset aceepted. If contributors are affiliated to companies or not, Activive contributing or not. When contributors are censored for the Survival analysis, and Lonivity in month to compute the retention rate, etc., we use these metrics and similar in our study in all the dataset files.
+We use double blind to represent each contributor with their gender and activities such as their __*Category*__ (Cat-1), __*Event*__ (release cycle that we capture the activity) __*Gender*__: Male, Female, non-binary (neutral), __*Commit*__ that each contributors made, the __*Effort*__ that contributors make to get their patchset aceepted. If contributors are affiliated to companies or not, Activive contributing or not. When contributors are censored for the Survival analysis, and Lonivity in month to compute the retention rate, etc., we use these metrics and similar in our study in all the dataset files.
 
 ## [OpenStack resources](#openstack-resources)
 
