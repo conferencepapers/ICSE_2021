@@ -48,7 +48,7 @@
 ├── Table1_Metrics.pdf
 └── seating_arrangement.pdf
 ```
-![alt text](https://github.com/foundjem/conferencepapers/ICSE_2021/blob/master/timeline.pdf?raw=true)
+![alt text](https://github.com/foundjem/ICSE_2021/blob/master/timeline.pdf?raw=true)
 
 
 ## Qualitative Study
