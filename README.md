@@ -128,7 +128,20 @@ For each metric in [Table1_Metrics.pdf] we measure a particular phenonmena such 
 
 <img width="1212" alt="affiliation" src="https://user-images.githubusercontent.com/66274242/106171370-7523cd00-615f-11eb-9be9-faf097e75678.png">
 
-We use double blind to represent each contributor with their gender and activities such as their __*Category*__ (Cat-1), __*Event*__ (release cycle that we capture the activity) __*Gender*__: Male, Female, non-binary (neutral), __*Commit*__ that each contributors made, the __*Effort*__ that contributors make to get their patchset aceepted. If contributors are affiliated to companies or not, Activive contributing or not. When contributors are censored for the Survival analysis, and Longivity in month to compute the retention rate, etc., we use these metrics and similar in our study in all the dataset files.
+#### ___Datasets___
+
+We use double blind on the datasets to represent each contributor with their gender and activities such as their __*Category*__ (Cat-1), __*Event*__ (release cycle that we capture the activity i.e. Cactus, Diablo, etc.,) __*Gender*__: Male, Female, non-binary (neutral), __*Commit*__ that each contributors made, the __*Effort*__ that contributors make to get their patchset aceepted. If contributors are affiliated to companies or not, Activive contributing or not. When contributors are censored for the Survival analysis, and Longivity in month to compute the retention rate, etc.
+
+- Similarly, we use different metrics in other datasets to answer our research questions. However, in all cases, our scripts uses these datasets on different categories of contributors. 
+
+#### ___Scripts___
+
+__*Users*__ need to install jupyterlab/notebook on their system to use the __*11.onboarding.html*__ and __*12.Statistical_testing.html*__, then convert these light weight version of the notebooks into ___.ipynb___ to run each cell. Alternatively, users can copy the cells of each ___.html___ files to a python file and run
+
+```
+$ python onboarding.py
+```
+
 
 ## [OpenStack resources](#openstack-resources)
 
