@@ -136,11 +136,18 @@ We use double blind on the datasets to represent each contributor with their gen
 
 #### ___Scripts___
 
+##### Python Files
+
 __*Users*__ need to install jupyterlab/notebook on their system to use the __*11.onboarding.html*__ and __*12.Statistical_testing.html*__, then convert these light weight version of the notebooks into ___.ipynb___ to run each cell. Alternatively, users can copy the cells of each ___.html___ files to a python file and run
 
 ```
 $ python onboarding.py
 ```
+Similarly to the other python files.
+
+##### R Files
+__*Users*__  can use any R IDE such as [RStudio](https://rstudio.com/) to compile and run the R codes found in __*13.survival_analysis.R*__, ___14.survival_longivity.R___, and ___19.iir.R___
+
 
 
 ## [OpenStack resources](#openstack-resources)
