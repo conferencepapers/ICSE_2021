@@ -48,6 +48,9 @@
 ├── Table1_Metrics.pdf
 └── seating_arrangement.pdf
 ```
+![alt text](https://github.com/foundjem/conferencepapers/ICSE_2021/blob/master/timeline.pdf?raw=true)
+
+
 ## Qualitative Study
 ### STEP 1.
   The '1.codebook': folder contains the codebook (0.), the transcribed texts (1.), the technical detail
