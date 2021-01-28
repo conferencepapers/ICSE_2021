@@ -49,25 +49,23 @@
 └── seating_arrangement.pdf
 
 ```
-## [Timeline](#timeline)
-Our study has three different categories spanning two different timeline; before and after onboarding OpenStack introduces onboarding training.
-![Our Research Timeline](https://user-images.githubusercontent.com/66274242/106151489-667eeb00-614a-11eb-98ec-9d16cb711cdf.png)
 
 ## [Data Collection](#data-collection)
 
-__Our study uses a mixed-method research to analyze the onboarding in a complex software ecosystem__ therefore, we first use a qualitative method; observational study of **72** new contributors to _OpenStack_. In this study, we recorded the entire two-days event and transcribed the data.  
-
+__Our study uses mixed-method research to analyze the onboarding in a complex software ecosystem__ therefore, we first use a qualitative method; observational study of **72** new contributors to _OpenStack_. In this study, we recorded the entire two-days event and transcribed the data.  Researchers can reference the seating arrangement, how mentors and new contributors (mentees) were configured. Moreover, we used a think-aloud protocol to collect a rich set of qualitative data from participants.
 ![Seating Arrangement](https://user-images.githubusercontent.com/66274242/106158339-9ed5f780-6151-11eb-95bf-5327acd3a160.png)
 
 Then, we apply qualitative technique on the transcribed data to build an affinity diagram, which contains emerging themes and findings in the observational study. We provide an open access to the data/files in this study below. 
 
-__Next__, we use the internal database at OpenStack to select all contributors who have done the onboarding training and filtered out those cases that did not meet the requirement our study in Cat-3 (for example, a new contributor should have no prior experience with any previous event within/out OpenStack). Based on this filtering, we obtain a total of 427 new contributors in Cat-3. This 427 number motivated us to select an equal amount of contributors in the other categories (Cat-1 and Cat-2).
 
-**Then** we use a professional in-house tool: ``pip install stackalytics`` to extract contributors activities in all the OpenStack repositories such as Gerrit, Launchpad, Storyboard, etc. Then based on our defined metrics, such as time-to-first commit, number of commits including buggy one and non-buggy commits, we later used these activities to calculate the SZZ metric for each contributor. 
+__Next__, we use the internal database at OpenStack (not available to the general public for confidentiality purposes). We use this dataset to select all contributors who have done the onboarding training and filtered out those cases that did not meet our study's requirement in Cat-3 (for example, a new contributor should have no prior experience with any previous event within/out OpenStack). Based on this filtering, we obtain a total of 427 new contributors in Cat-3. This 427 number motivated us to select an equal amount of contributors in the other categories (Cat-1 and Cat-2).
+
+
+**Then** we use a professional in-house tool: ``pip install stackalytics`` to extract contributors' activities in all the OpenStack repositories such as Gerrit, Launchpad, Storyboard, etc. Based on our defined metrics, such as time-to-first commit, the number of commits, including buggy one and non-buggy commits, we later used these activities to calculate each contributor's SZZ metric. 
+
 
 
 ## [Qualitative Study](#qualitative-section)
-
 
 ### STEP 1.
   The '1.codebook': folder contains the codebook (0.), the transcribed texts (1.), the technical detail
@@ -97,6 +95,12 @@ The codebook (0.) is the final result of a series of negotiated
  -  Next, "2.affinity_2nd_and_3rd_iteration.pdf" shows  the second and third rounds of iteration that we did re-arranging the low-level and high-level code  and building more higher-level themes by abstracting common themes. Finally, "3.affinity_final_iteration.pdf" we reach three main themes that we used in the paper to categorize onboarding experience.
  
 ## [Quantitative Study](#qusntitative-section)
+
+## [Timeline](#timeline)
+Our quantitative study has three different categories spanning two different timelines; before and after OpenStack introduces onboarding.
+![Our Research Timeline](https://user-images.githubusercontent.com/66274242/106151489-667eeb00-614a-11eb-98ec-9d16cb711cdf.png)
+
+
 - We provide the dataset  "4.dataset" that we  used in analyzing the new contributors activities at OpenStack.
 ### STEP 4. 
 -0 In each file, we compute different metric and compare the different studied categories (Cat-1, Cat-2, and Cat-3). The event column is the particular release cycle that we are looking at.
