@@ -49,11 +49,17 @@
 └── seating_arrangement.pdf
 
 ```
-## Our Research Timeline
+## [Timeline](#timeline)
+Our study has three different categories spanning two different timeline; before and after onboarding OpenStack introduces onboarding training.
 ![Our Research Timeline](https://user-images.githubusercontent.com/66274242/106151489-667eeb00-614a-11eb-98ec-9d16cb711cdf.png)
 
-## Data Collection
-__Our study uses a mixed-method research to analyze the onboarding in a complex software ecosystem__ therefore, we first use a qualitative method; observational study of **72** new contributors to _OpenStack_. In this study, we recorded the entire two-days event and transcribed the data. Then, we apply qualitative technique on the transcribed data to build an affinity diagram, which contains emerging themes and findings in the observational study. We provide an open access to the data/files in this study below.  
+## [Data Collection](#data-collection)
+
+__Our study uses a mixed-method research to analyze the onboarding in a complex software ecosystem__ therefore, we first use a qualitative method; observational study of **72** new contributors to _OpenStack_. In this study, we recorded the entire two-days event and transcribed the data.  
+
+![Seating Arrangement](https://user-images.githubusercontent.com/66274242/106158339-9ed5f780-6151-11eb-95bf-5327acd3a160.png)
+
+Then, we apply qualitative technique on the transcribed data to build an affinity diagram, which contains emerging themes and findings in the observational study. We provide an open access to the data/files in this study below. 
 
 __Next__, we use the internal database at OpenStack to select all contributors who have done the onboarding training and filtered out those cases that did not meet the requirement our study in Cat-3 (for example, a new contributor should have no prior experience with any previous event within/out OpenStack). Based on this filtering, we obtain a total of 427 new contributors in Cat-3. This 427 number motivated us to select an equal amount of contributors in the other categories (Cat-1 and Cat-2).
 
@@ -111,7 +117,7 @@ We run our scripts on the datasets to analyze the activities on interests. We ha
 
 
 ## [OpenStack resources](#openstack-resources)
-
+- [Stackalytics] (https://wiki.openstack.org/wiki/Stackalytics)
 - [OpenStack Foundation] (https://www.openstack.org) 
 - [How to contribute to OpenStack, new contributors] https://wiki.openstack.org/wiki/How_To_Contribute#Contributors_License_Agreement,
 - [OpenStack governance and Contributors' policies] https://wiki.openstack.org/wiki/GovernmentCLA,
