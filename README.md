@@ -48,7 +48,7 @@
 ├── Table1_Metrics.pdf
 └── seating_arrangement.pdf
 ```
-![Our Research Timeline Including three groups: Cat-1, Cat-2, and Cat-3](https://github.com/foundjem/conferencepapers/ICSE_2021/blob/master/timeline.pdf?raw=true)
+![Our Research Timeline](./timeline.pdf?raw=true)
 
 
 ## Qualitative Study
