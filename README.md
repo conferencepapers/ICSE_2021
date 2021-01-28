@@ -47,7 +47,9 @@
 ├── Replication_Package.zip
 ├── Table1_Metrics.pdf
 └── seating_arrangement.pdf
+
 ```
+### Our Research Timeline
 ![Our Research Timeline](https://user-images.githubusercontent.com/66274242/106151489-667eeb00-614a-11eb-98ec-9d16cb711cdf.png)
 
 ## Qualitative Study
