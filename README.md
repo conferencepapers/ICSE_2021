@@ -48,7 +48,7 @@
 ├── Table1_Metrics.pdf
 └── seating_arrangement.pdf
 ```
-![Our Research Timeline](ICSE_2021/timeline.pdf?raw=true)
+![Our Research Timeline](./timeline.pdf?raw=true)
 
 
 ## Qualitative Study
