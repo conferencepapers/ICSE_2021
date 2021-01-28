@@ -49,10 +49,20 @@
 └── seating_arrangement.pdf
 
 ```
-### Our Research Timeline
+## Our Research Timeline
 ![Our Research Timeline](https://user-images.githubusercontent.com/66274242/106151489-667eeb00-614a-11eb-98ec-9d16cb711cdf.png)
 
-## Qualitative Study
+## Data Collection
+__Our study uses a mixed-method research to analyze the onboarding in a complex software ecosystem__ therefore, we first use a qualitative method; observational study of **72** new contributors to _OpenStack_. In this study, we recorded the entire two-days event and transcribed the data. Then, we apply qualitative technique on the transcribed data to build an affinity diagram, which contains emerging themes and findings in the observational study. We provide an open access to the data/files in this study below.  
+
+__Next__, we use the internal database at OpenStack to select all contributors who have done the onboarding training and filtered out those cases that did not meet the requirement our study in Cat-3 (for example, a new contributor should have no prior experience with any previous event within/out OpenStack). Based on this filtering, we obtain a total of 427 new contributors in Cat-3. This 427 number motivated us to select an equal amount of contributors in the other categories (Cat-1 and Cat-2).
+
+**Then** we use a professional in-house tool: ``pip install stackalytics`` to extract contributors activities in all the OpenStack repositories such as Gerrit, Launchpad, Storyboard, etc. Then based on our defined metrics, such as time-to-first commit, number of commits including buggy one and non-buggy commits, we later used these activities to calculate the SZZ metric for each contributor. 
+
+
+## [Qualitative Study](#qualitative-section)
+
+
 ### STEP 1.
   The '1.codebook': folder contains the codebook (0.), the transcribed texts (1.), the technical detail
   activities(2.), and the codes that emerges as both raters did the qualitative coding (3.) for both day-1/2 of the observational study at Berlin.
@@ -80,7 +90,7 @@ The codebook (0.) is the final result of a series of negotiated
  
  -  Next, "2.affinity_2nd_and_3rd_iteration.pdf" shows  the second and third rounds of iteration that we did re-arranging the low-level and high-level code  and building more higher-level themes by abstracting common themes. Finally, "3.affinity_final_iteration.pdf" we reach three main themes that we used in the paper to categorize onboarding experience.
  
-## Quantitative Study
+## [Quantitative Study](#qusntitative-section)
 - We provide the dataset  "4.dataset" that we  used in analyzing the new contributors activities at OpenStack.
 ### STEP 4. 
 -0 In each file, we compute different metric and compare the different studied categories (Cat-1, Cat-2, and Cat-3). The event column is the particular release cycle that we are looking at.
@@ -98,15 +108,9 @@ We run our scripts on the datasets to analyze the activities on interests. We ha
 
 ###  links to resources at OpenStack onboarding
 -------
-```
-@ONLINE{osf-ref,
-author = {OpenStack-Foundation},
-title = {Links to the OpenStack Foundation ecosystem documentations (release managed projects and services)},
-month = "August",
-year = {2020},
-```
-## Various OpenStack resources and links
 
+
+## [OpenStack resources](#openstack-resources)
 
 - [OpenStack Foundation] (https://www.openstack.org) 
 - [How to contribute to OpenStack, new contributors] https://wiki.openstack.org/wiki/How_To_Contribute#Contributors_License_Agreement,
@@ -121,8 +125,6 @@ year = {2020},
 - [Project-level issues tracker] https://launchpad.net/openstack,
 - [OpenStack git repository] https://review.opendev.org/#/dashboard/self,
 - [Making firat contacts with OpenStack] https://wiki.openstack.org/wiki/First_Contact_SIG},
-
-
 ```
 ### last update = {2020-08-28}
 ```
