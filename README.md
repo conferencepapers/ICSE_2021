@@ -53,6 +53,10 @@
 ```
 
 # [Files Description](#file-description)
+
+## [Open Data](#open-data)
+The purpose of this repository is to make avialbale our study materials, how researcher can benefit from our rich and unique set of data relating to software ecosystem onboarding. We do not provid any software that users should install in theor system. More especially, we make our dataset publicly available.
+
 In the Quantitative study (we used the ___Table1_Metrics.pdf___ table to answer our ***RQ1*** (Diversity: we define diversity in broader sense of gender, technical amd coorporate diversity. ***RQ2*** (Productivity: we measure Density, Time ti first commit, retention, and patch acceptance rate). Finally in ***RQ3***, we measure Quality: Effort and SZZ), we use the radar chart below to compare these metrics in RQ1,2 and 3 between Cat-2 vs. Cat-3.
 
   [Radar Chart](#radar-chart)
