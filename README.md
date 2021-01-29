@@ -60,9 +60,9 @@ The purpose of this repository is to make avialbale our study materials, how res
 In the Quantitative study (we used the ___Table1_Metrics.pdf___ table to answer our ***RQ1*** (Diversity: we define diversity in broader sense of gender, technical amd coorporate diversity. ***RQ2*** (Productivity: we measure Density, Time ti first commit, retention, and patch acceptance rate). Finally in ***RQ3***, we measure Quality: Effort and SZZ), we use the radar chart below to compare these metrics in RQ1,2 and 3 between Cat-2 vs. Cat-3.
 
   [Radar Chart](#radar-chart)
-
+  
 <p align="center">
- ![radar](https://user-images.githubusercontent.com/66274242/106213440-b08fbd00-619a-11eb-8046-890c0e658229.png)
+![radar](https://user-images.githubusercontent.com/66274242/106213440-b08fbd00-619a-11eb-8046-890c0e658229.png)
 </p>
 
 ## Coorporate Diversity
@@ -117,6 +117,7 @@ The codebook (0.) is the final result of a series of negotiated
 
 ## [Timeline](#timeline)
 Our quantitative study has three different categories spanning two different timelines; before and after OpenStack introduces onboarding.
+
 <p align="center">
 ![Our Research Timeline](https://user-images.githubusercontent.com/66274242/106151489-667eeb00-614a-11eb-98ec-9d16cb711cdf.png)
 </p>
