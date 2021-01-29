@@ -53,9 +53,12 @@
 # [Files Description](#file-description)
 In the Quantitative study (we used the ___Table1_Metrics.pdf___ table to answer our ***RQ1*** (Diversity: we define diversity in broader sense of gender, technical amd coorporate diversity. ***RQ2*** (Productivity: we measure Density, Time ti first commit, retention, and patch acceptance rate). Finally in ***RQ3***, we measure Quality: Effort and SZZ), we use the radar chart below to compare these metrics in RQ1,2 and 3 between Cat-2 vs. Cat-3.
 
+[Radar Chart](#radar-chart)
 ![radar](https://user-images.githubusercontent.com/66274242/106213440-b08fbd00-619a-11eb-8046-890c0e658229.png)
 
-___CD_commits.pdf___ 
+
+Among the comoanies that contribute source code to OpenStack, we computed how many companies contribute 50% or more of the total commits to the codebase, as shown in ___CD_commits.pdf___.
+
 
 # [Data Collection And Analysis](#data-collection-and-analysis)
 
