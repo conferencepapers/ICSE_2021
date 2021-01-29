@@ -55,7 +55,10 @@
 ```
 
 # [Files Description](#file-description)
-
+- [Extended_Abstract.pdf](#extended-abstract)
+The submited extended Abstract pointing to the replication package.
+- [ICSE21_Onboarding.pdf](#publish-paper)
+Our accepted paper fr this study at ICSE 2021
 ## [Open Data](#open-data)
 The purpose of this repository is to make avialbale our study materials, how researcher can benefit from our rich and unique set of data relating to software ecosystem onboarding. We do not provid any software that users should install in theor system. More especially, we make our dataset publicly available.
 
