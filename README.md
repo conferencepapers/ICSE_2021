@@ -21,15 +21,17 @@
 │   └── 3.affinity_final_iteration.pdf
 ├── 4.dataset
 │   ├── 1.Affiliation12.csv
+│   ├── 10.top10_analysis.csv
+│   ├── 11.corporate_diversity.csv
 │   ├── 2.commit_proportion12.csv
 │   ├── 3.commit_proportion23.csv
 │   ├── 4.company_commits.csv
 │   ├── 6.Effort12.csv
 │   ├── 7.Efforts.csv
 │   ├── 8.SZZ.csv
-│   ├── 9.Technical_diversity.csv
-│   └── 10.top10_analysis.csv
+│   └── 9.Technical_diversity.csv
 ├── 5.scripts
+│   ├── 0.requirements.txt
 │   ├── 11.onboarding.html
 │   ├── 12.Statistical_testing.html
 │   ├── 13.survival_analysis.R
@@ -42,21 +44,22 @@
 │   ├── 20.multiplot.py
 │   └── 21.radar.py
 ├── CD_commits.pdf
+├── ICSE21_Onboarding_Experience.pdf
 ├── LICENSE
 ├── README.md
-├── Replication_Package.zip
 ├── Table1_Metrics.pdf
-└── seating_arrangement.pdf
-
+├── seating_arrangement.pdf
+└── timeline.pdf
 ```
 
 # [Files Description](#file-description)
 In the Quantitative study (we used the ___Table1_Metrics.pdf___ table to answer our ***RQ1*** (Diversity: we define diversity in broader sense of gender, technical amd coorporate diversity. ***RQ2*** (Productivity: we measure Density, Time ti first commit, retention, and patch acceptance rate). Finally in ***RQ3***, we measure Quality: Effort and SZZ), we use the radar chart below to compare these metrics in RQ1,2 and 3 between Cat-2 vs. Cat-3.
 
-[Radar Chart](#radar-chart)
+  [Radar Chart](#radar-chart)
+
 ![radar](https://user-images.githubusercontent.com/66274242/106213440-b08fbd00-619a-11eb-8046-890c0e658229.png)
 
-
+## Coorporate Diversity
 Among the comoanies that contribute source code to OpenStack, we computed how many companies contribute 50% or more of the total commits to the codebase, as shown in ___CD_commits.pdf___.
 
 
