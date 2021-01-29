@@ -61,9 +61,8 @@ In the Quantitative study (we used the ___Table1_Metrics.pdf___ table to answer 
 
   [Radar Chart](#radar-chart)
   
-<p align="center">
 ![radar](https://user-images.githubusercontent.com/66274242/106213440-b08fbd00-619a-11eb-8046-890c0e658229.png)
-</p>
+
 
 ## Coorporate Diversity
 Among the comoanies that contribute source code to OpenStack, we computed how many companies contribute 50% or more of the total commits to the codebase, as shown in ___CD_commits.pdf___.
@@ -118,9 +117,8 @@ The codebook (0.) is the final result of a series of negotiated
 ## [Timeline](#timeline)
 Our quantitative study has three different categories spanning two different timelines; before and after OpenStack introduces onboarding.
 
-<p align="center">
 ![Our Research Timeline](https://user-images.githubusercontent.com/66274242/106151489-667eeb00-614a-11eb-98ec-9d16cb711cdf.png)
-</p>
+
 
 - We provide the dataset  "4.dataset" that we  used in analyzing the new contributors activities at OpenStack.
 ### STEP 4. 
@@ -147,9 +145,8 @@ For the R package the survival analysis file (_*13.survival_analysis.R*_) automa
 All our datasets in the quantitative study has ***427*** entry per category (Cat-1, Cat-2, and Cat-3) making a total of 1281 new contributors.
 For each metric in [Table1_Metrics.pdf] we measure a particular phenonmena such as Affiliation of contributors in each category that were hired by OpenStack sponsoring companies. For example, in the case of company affiliation, we use the __*Affiliation.csv*__ dataset, which has the following columns and selected rows:
 
-<p align="center">
 <img width="1212" alt="affiliation" src="https://user-images.githubusercontent.com/66274242/106171370-7523cd00-615f-11eb-9be9-faf097e75678.png">
-</p>
+
 #### ___Datasets___
 
 We use double blind on the datasets to represent each contributor with their gender and activities such as their __*Category*__ (Cat-1), __*Event*__ (release cycle that we capture the activity i.e. Cactus, Diablo, etc.,) __*Gender*__: Male, Female, non-binary (neutral), __*Commit*__ that each contributors made, the __*Effort*__ that contributors make to get their patchset aceepted. If contributors are affiliated to companies or not, Activive contributing or not. When contributors are censored for the Survival analysis, and Longivity in month to compute the retention rate, etc.
