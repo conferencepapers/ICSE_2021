@@ -122,7 +122,10 @@ The codebook (0.) is the final result of a series of negotiated
 ## [Mining Software Repositories](#mining-software-reposotories)
 We mined the following OpenStack's repositories, based on the stratefied random sampliung with did on the selected 1281 new contributors among all three categories; Cat-1, Cat-2, and Cat-3.
 
-![mined_repositories](https://user-images.githubusercontent.com/66274242/110357167-fc8b1880-8008-11eb-802b-2df7c6b7df1f.png)
+<center>
+  ![mined_repositories](https://user-images.githubusercontent.com/66274242/110357167-fc8b1880-8008-11eb-802b-2df7c6b7df1f.png)
+</center>
+
 
 ## [Timeline](#timeline)
 Our quantitative study has three different categories spanning two different timelines; before and after OpenStack introduces onboarding.
